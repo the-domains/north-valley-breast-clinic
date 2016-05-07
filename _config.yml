@@ -1,7 +1,7 @@
 name: North Valley Breast Clinic
 favicon: null
-layout_spectrum: 0.7442094704601914
-typography_spectrum: 0.976383374305442
+layout_spectrum: 0.94696
+typography_spectrum: 0.48435
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.3252180051058531
-  lightness: 0.8152282913215458
-  saturation: 0.43511255364865065
-  rhythmicContrast: 0.15607475559227169
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
