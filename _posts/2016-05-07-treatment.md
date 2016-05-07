@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Treatment
-datePublished: '2016-05-07T04:37:28.978Z'
-dateModified: '2016-05-07T04:37:22.501Z'
+datePublished: '2016-05-07T04:40:35.668Z'
+dateModified: '2016-05-07T04:39:19.262Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-treatment.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
