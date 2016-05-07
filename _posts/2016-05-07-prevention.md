@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T15:31:26.117Z'
-dateModified: '2016-05-07T15:29:37.292Z'
+datePublished: '2016-05-07T15:33:08.041Z'
+dateModified: '2016-05-07T15:32:14.020Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
 sourcePath: _posts/2016-05-07-prevention.md
+starred: false
 url: prevention/index.html
 _type: Article
 
